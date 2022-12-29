@@ -1,6 +1,6 @@
 # Factory-reset-a-ESP32-S2-TFT-Feather
 
-What shoudl you do if your Adafruit ESP32-S2 tft Feather is locked up.
+What should you do if your Adafruit ESP32-S2 tft Feather is locked up.
 
 Hold BOOT while pressing reset. It doesn't show as a drive but as a serial port, and installing an Arduino program that way should reinstall the bootloader too.
 On a MAC it might show the drive mounted.
