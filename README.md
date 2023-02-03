@@ -38,3 +38,7 @@ Uploaded a uf2 factory reset from Adafruit…
 https://learn.adafruit.com/adafruit-esp32-s2-tft-feather/factory-reset
 adafruit-esp32-s2-tft-feather-factory-reset.UF2
 
+_____________________________________________________________
+Used this elsewhere and figured it coudl be useful...
+# esptool.py --chip esp32 --port /dev/ttyUSB0 erase_flash
+
