@@ -26,7 +26,7 @@ Then hit boot and reset. Reconnect.
 
 Then click program
 Then click choose a file
-Select combined.bin 
+Select **combined.bin **
 https://learn.adafruit.com/adafruit-magtag/install-uf2-bootloader
 
 
@@ -36,7 +36,8 @@ Hit reset when done
 
 Uploaded a uf2 factory reset from Adafruit…
 https://learn.adafruit.com/adafruit-esp32-s2-tft-feather/factory-reset
-adafruit-esp32-s2-tft-feather-factory-reset.UF2
+
+**adafruit-esp32-s2-tft-feather-factory-reset.UF2**
 
 _____________________________________________________________
 Used this elsewhere and figured it coudl be useful...
