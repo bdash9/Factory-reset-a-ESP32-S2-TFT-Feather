@@ -43,3 +43,8 @@ _____________________________________________________________
 Used this elsewhere and figured it could be useful...
 # esptool.py --chip esp32 --port /dev/ttyUSB0 erase_flash
 
+
+Install CircuitPython:
+https://circuitpython.org/board/adafruit_feather_esp32s2/
+
+
